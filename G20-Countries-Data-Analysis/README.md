@@ -58,7 +58,7 @@ Visualizing the distribution of numeric features like GDP, life expectancy, COâ‚
 ### ðŸ”¹ Boxplot Summary of Indicators
 Boxplots reveal the spread and detect potential outliers across key G20 indicators.
 
-![Boxplot Summary](screenshots/boxplots.png)
+![Boxplot Summary](screenshots/boxplot.png)
 
 ---
 
